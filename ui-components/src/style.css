@@ -1,0 +1,53 @@
+:root {
+  font-family: "Open sans";
+  color: rgba(255, 255, 255, 0.87);
+  --primary-color: #f7ba50;
+  --secondary-color: #c75100;
+  --warning-color: #DC5A00;
+  --info-color: #2C75DD;
+  --error-color: #CC3123;
+  --success-color: #008700;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+}
+
+ul{
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+h1{
+  font-size: 16px;
+  color: black;
+}
+
+button {
+  font-family: "Open sans";
+  line-height: 24px;
+  border: none;
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  will-change: filter;
+  transition: filter 300ms;
+}
+button:hover {
+  filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.25));
+}
+
+
+#app {
+  margin: 0 auto;
+  text-align: center;
+}
+

@@ -1,0 +1,131 @@
+{
+  "testSuite": "BackstopJS",
+  "tests": [
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0__0_small.png",
+        "test": "../bitmaps_test/20240322-144906/backstop_default_BackstopJS_Homepage_0__0_small.png",
+        "selector": "",
+        "fileName": "backstop_default_BackstopJS_Homepage_0__0_small.png",
+        "label": "BackstopJS Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://localhost:5175",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "small",
+        "engineErrorMsg": "require() of ES Module /Users/nanxi/Desktop/ui-components/backstop_data/engine_scripts/puppet/onBefore.js from /usr/local/lib/node_modules/backstopjs/core/util/runPuppet.js not supported.\nonBefore.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains \"type\": \"module\" which declares all .js files in that package scope as ES modules.\nInstead either rename onBefore.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change \"type\": \"module\" to \"type\": \"commonjs\" in /Users/nanxi/Desktop/ui-components/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).\n",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0__1_medium.png",
+        "test": "../bitmaps_test/20240322-144906/backstop_default_BackstopJS_Homepage_0__1_medium.png",
+        "selector": "",
+        "fileName": "backstop_default_BackstopJS_Homepage_0__1_medium.png",
+        "label": "BackstopJS Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://localhost:5175",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "medium",
+        "engineErrorMsg": "require() of ES Module /Users/nanxi/Desktop/ui-components/backstop_data/engine_scripts/puppet/onBefore.js from /usr/local/lib/node_modules/backstopjs/core/util/runPuppet.js not supported.\nonBefore.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains \"type\": \"module\" which declares all .js files in that package scope as ES modules.\nInstead either rename onBefore.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change \"type\": \"module\" to \"type\": \"commonjs\" in /Users/nanxi/Desktop/ui-components/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).\n",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0__2_large.png",
+        "test": "../bitmaps_test/20240322-144906/backstop_default_BackstopJS_Homepage_0__2_large.png",
+        "selector": "",
+        "fileName": "backstop_default_BackstopJS_Homepage_0__2_large.png",
+        "label": "BackstopJS Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://localhost:5175",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "large",
+        "engineErrorMsg": "require() of ES Module /Users/nanxi/Desktop/ui-components/backstop_data/engine_scripts/puppet/onBefore.js from /usr/local/lib/node_modules/backstopjs/core/util/runPuppet.js not supported.\nonBefore.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains \"type\": \"module\" which declares all .js files in that package scope as ES modules.\nInstead either rename onBefore.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change \"type\": \"module\" to \"type\": \"commonjs\" in /Users/nanxi/Desktop/ui-components/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).\n",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0__3_xlarge.png",
+        "test": "../bitmaps_test/20240322-144906/backstop_default_BackstopJS_Homepage_0__3_xlarge.png",
+        "selector": "",
+        "fileName": "backstop_default_BackstopJS_Homepage_0__3_xlarge.png",
+        "label": "BackstopJS Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://localhost:5175",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "xlarge",
+        "engineErrorMsg": "require() of ES Module /Users/nanxi/Desktop/ui-components/backstop_data/engine_scripts/puppet/onBefore.js from /usr/local/lib/node_modules/backstopjs/core/util/runPuppet.js not supported.\nonBefore.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains \"type\": \"module\" which declares all .js files in that package scope as ES modules.\nInstead either rename onBefore.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change \"type\": \"module\" to \"type\": \"commonjs\" in /Users/nanxi/Desktop/ui-components/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).\n",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    },
+    {
+      "pair": {
+        "reference": "../bitmaps_reference/backstop_default_BackstopJS_Homepage_0__4_xxlarge.png",
+        "test": "../bitmaps_test/20240322-144906/backstop_default_BackstopJS_Homepage_0__4_xxlarge.png",
+        "selector": "",
+        "fileName": "backstop_default_BackstopJS_Homepage_0__4_xxlarge.png",
+        "label": "BackstopJS Homepage",
+        "requireSameDimensions": true,
+        "misMatchThreshold": 0.1,
+        "url": "http://localhost:5175",
+        "referenceUrl": "",
+        "expect": 0,
+        "viewportLabel": "xxlarge",
+        "engineErrorMsg": "require() of ES Module /Users/nanxi/Desktop/ui-components/backstop_data/engine_scripts/puppet/onBefore.js from /usr/local/lib/node_modules/backstopjs/core/util/runPuppet.js not supported.\nonBefore.js is treated as an ES module file as it is a .js file whose nearest parent package.json contains \"type\": \"module\" which declares all .js files in that package scope as ES modules.\nInstead either rename onBefore.js to end in .cjs, change the requiring code to use dynamic import() which is available in all CommonJS modules, or change \"type\": \"module\" to \"type\": \"commonjs\" in /Users/nanxi/Desktop/ui-components/package.json to treat all .js files as CommonJS (using .mjs for all ES modules instead).\n",
+        "diff": {
+          "isSameDimensions": true,
+          "dimensionDifference": {
+            "width": 0,
+            "height": 0
+          },
+          "misMatchPercentage": "0.00"
+        }
+      },
+      "status": "pass"
+    }
+  ],
+  "id": "backstop_default"
+}

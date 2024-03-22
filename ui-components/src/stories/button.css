@@ -1,0 +1,36 @@
+.storybook-button {
+  line-height: 24px;
+  border: none;
+  border-radius: 8px;
+  padding: 6px 12px;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: "Open sans";
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  gap: 4px;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.storybook-button--primary {
+  margin: 0 auto;
+  color: #1a1a1a;
+  background-color: #f7ba50;
+}
+.storybook-button--secondary {
+  margin: 0 auto;
+  background-color: #ffffff;
+  border: 0.8px solid;
+  color: #c75100;
+  border-color: #c75100;
+
+}
+.storybook-button--secondary path{
+  stroke: #c75100;
+}
+
+.storybook-button:hover {
+  filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.25));
+}
+
