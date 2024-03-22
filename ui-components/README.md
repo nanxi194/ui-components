@@ -8,3 +8,4 @@ visual regression: backstop reference -> backstop test
 
 uniy test: npx jest 
 
+![My Image](preview.jpg)
